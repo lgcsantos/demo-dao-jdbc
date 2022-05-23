@@ -11,7 +11,7 @@ public class Department implements Serializable {
 	private Integer id;	
 	private String name;
 	
-	private Department() {
+	public Department() {
 		
 	}
 
